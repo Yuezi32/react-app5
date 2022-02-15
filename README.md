@@ -10,9 +10,9 @@
 5. 已安装immutable
 6. 已安装axios
 7. 已安装mockjs
-6. 已安装antd
-8. 支持浏览器Redux DevTools插件（需先在chrome应用商店添加Redux DevTools）
-9. 支持反向代理（在src/setupProxy.js中配置）
+8. 已安装antd
+9. 支持浏览器Redux DevTools插件（需先在chrome应用商店添加Redux DevTools）
+10. 支持反向代理（在src/setupProxy.js中配置）
 
 
 ## React全家桶搭建教程
